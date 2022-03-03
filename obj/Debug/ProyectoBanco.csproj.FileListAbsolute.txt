@@ -1,0 +1,83 @@
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe.config
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.pdb
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.dll
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.pdb
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.g.cs
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\App.g.cs
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.cache
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.lref
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\App.baml
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.baml
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.g.resources
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.Properties.Resources.resources
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.exe
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.pdb
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.baml
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.g.cs
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.baml
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.g.cs
+C:\Users\elmer\source\repos\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe.config
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.pdb
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.dll
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.pdb
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.g.cs
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.g.cs
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.g.cs
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\App.g.cs
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.cache
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.lref
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\App.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.baml
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.g.resources
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.Properties.Resources.resources
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CopyComplete
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.exe
+C:\Users\felip\OneDrive\Escritorio\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.pdb
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe.config
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.exe
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\ProyectoBanco.pdb
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.dll
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignColors.pdb
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csprojAssemblyReference.cache
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.g.cs
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.g.cs
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.g.cs
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.g.cs
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\App.g.cs
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.cache
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco_MarkupCompile.lref
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\App.baml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\Formulario.baml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\InfoSolicitud.baml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\MainWindow.baml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\VentanaPrincipal.baml
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.g.resources
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.Properties.Resources.resources
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.GenerateResource.cache
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CopyComplete
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.exe
+D:\Erica\Pascual Bravo\Tercer Semestre\ProyectoBanco (1)\ProyectoBanco\ProyectoBanco\obj\Debug\ProyectoBanco.pdb
